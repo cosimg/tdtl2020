@@ -1,0 +1,46 @@
+---
+layout: post
+title: Tag 11 - Das Wunder von Hackney
+date: 1883-07-16 13:32:20 +0300
+description: 
+img: The_Sepoy_revolt_at_Meerut.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: 
+---
+Die Meldungen des Tages: +++ Französisches Armeekorps kapituliert bei Westham. +++ Franzosen besetzten südliches Themseufer. +++ Britische Regierung evakuiert Westminster +++
+
+## Großartiger Sieg! Feindliches Armeekorps vernichtet!
+ 
+### Gentleman’s Daily, London - Extrablatt - Das Wunder von Hackney
+
+Details sind noch nicht bekannt, doch war den ganzen Vormittag über aus den östlichen Stadtteilen lauter Gefechtslärm zu vernehmen. Gegen Mittag kam dann die Bestätigung - unsere Soldaten konnten den Feind aus dem direkten Stadtgebiet herausdrängen, wo er dem inzwischen legendären Viscount Mallingham direkt in die Arme lief. Unser Reporter Charles Durberham konnte unmittelbar vor Drucklegung diese Ausgabe einen verwundeten Offizier der Lewes Loyal Legion, eines Freiwilligenverbandes aus Sussex, befragen. Hier ein Auszug aus seinem Bericht: 
+
+“Als am Morgen der Angriffsbefehl eintraf, war die Stimmung gedrückt. Jeder wußte, daß wir einen Feind angreifen würden, der zahlenmäßig so überlegen war, daß auch unsere treuen Winchester-Repetierer nur wenig ausrichten konnten. Jeder wußte aber auch, daß wir der aus Oxford heraneilenden Armee soviel Zeit wie möglich erkaufen mußten, also traten wir zum Angriff an. Die ersten Meter durch die Hackney Marsh waren die schlimmsten - uns schlug heftiges Feuer entgegen, meine Kompanie verlor die Hälfte ihrer Männer. Doch irgendwie haben wir es nach Low Leyton hineingeschafft, und nach mehreren Stunden begannen sich die Franzosen zurückzuziehen. Wir bezogen Positionen am Ortsausgang, zu müde selbst zum Jubeln, als am frühen Nachmittag die Franzosen nochmals auf unsere Stellungen zuliefen, diesmal allerdings deutlich ungeordneter als beispielsweise gestern. Meine Kompanie bestand zu diesem Zeitpunkt noch aus 17 Mann, doch immerhin konnte unsere Artillerie das Feuer eröffnen. Zu unserer großen Überraschung und Erleichterung wichen die Franzosen dann wieder zurück, und eine Stunde später machte die Nachricht von der Kapitulation wie ein Lauffeuer die Runde. Wir sind froh über den Ausgang, für den wir einen sehr hohen Preis bezahlt haben.”
+
+Der Dank der Nation gilt den Verteidigern Londons und Viscount Mallingham, die in der vielleicht dunkelsten Stunde der Geschichte des Empire London so tapfer verteidigt haben. Der Sieg gibt uns Zuversicht, daß auch die Bedrohung aus dem Süden abgewehrt werden kann.
+
+
+## Zwischen Hammer und Amboß
+
+### Daily Telegraph, London, 16. Juli
+
+So stieg der greise Sir Evelyn auf die Barrikade vor dem Sanatorium an der Bow Road, das Schwert in der Rechten, den Union Jack in der Linken, und er sprach: "Hört mich, ihr Söhne Englands. Gestern standen wir hier, vereint im festen Willen lieber zu sterben als dem Feind noch einen Zoll unseres geliebten Landes kampflos zu überlassen. Wir standen hier, und wir wichen keinen Schritt. Wir standen, und wir viele von uns gaben ihr Leben, aber bis hier hin und nicht weiter kam der Feind. Ich will euch nicht anlügen. Die Lage ist verzweifelt. Der Feind übermächtig. Und es könnte der Tag sein, an dem wir verzagen. Aber dieser Tag ist nicht heute, Männer Englands! ich werde nun diese Fahne dort hinüber tragen. Wer kommt mit mir?" Aus den Straßen und aus den zerschossenen Häusern hallte der Ruf "Papa Dapper! Papa Dapper!" und Brigadier General Sir Evelyin Dapper, der schon in Waterloo mit stolz die rote Uniform getragen hatten, stieg von der Barrikade und lief auf die Stellungen der Franzosen zu. 
+Und unter Jubelschreien kamen die Verteidiger der Heimat aus den Häusern und hinter den Barrikaden hervor. Mit aufgepflanzten Bajonetten stürmten sie los. Sie stürmten durch die Straßen, und sie droschen auf sie ein, auf die feigen Invasoren, wo immer sie sie trafen. Ein Hauen und Stechen. Und der Feind wich - weiter und weiter - bis hinaus vor die Stadt. 
+Und dort, draußen, auf der Ebene von Barking, hielt Anthony Boyle, der Viscount Mallingham, noch einmal seine tapfere Reiterschar an. Und seine Stimme hallte über die Ebene, so laut und klar, daß selbst der entfernteste seiner streitbaren Ritter ihn noch vernehmen konnte. Und so sprach der Viscount Mallingham: “So weit sind wir gemeinsam geritten, Männer Englands, viele Kämpfe haben wir gemeinsam bestanden. Folgt mir heute noch ein einziges Mal. Für England! Für Gott und die Königin! Vorwärts!” Er gab seinem Pferd die Sporen und preschte voran, und aus hundert in der Sonne glitzernden Trompeten erschallte das Signal. Und Mallingham, all seinen Männern voran, fuhr wie das flammende Schwert der Cherubim durch die Reihen der Feinde. Und blankes Entsetzen kam über die Invasoren. Aus zitternden Händen ließen sie ihre Waffen fallen, kehrten ihre Rücken zur Flucht. Und sie fielen in Scharen unter den Schwertern aus dem Osten, und unter den Bajonetten aus dem Westen. Und Mallinghams Männer bildeten einen Hammer, Dappers Truppen aus der Stadt kommend den Amboß; und die Streitmacht der Invasoren ward zwischen ihnen zermalmt! Und so trafen sich, auf einem kleinen Hügel bei Little Ilford der Viscount Mallingham und Papa Dapper, und reichten sich erschöpft die Hände. 
+
+
+## Offizielle Presseerklärung aus dem Hauptquartier der Home Defence Forces, London
+
+Die dramatische Lage um London ist keinesfalls dem tun unserer Soldaten geschuldet. Vielmehr handelte es sich um eine List durch die französischen Invasoren. Captain Harry Bontagenet – bislang Offizier des Empires – verriet offenbar bereits seit Beginn des französischen Krieges die Pläne der Generalität an den Feind. Am 13. Juli wurde er mit der wichtigsten Aufgabe, der Aufklärung der eigenen Flanke, für die britische Hauptstreitmacht betraut. Seine Falschmeldung im brisantesten Moment führte dazu, dass die französische Kavalleriearmee unseren treuen Soldaten bei Rochester den Stoß in den Rücken trug und den Zusammenbruch der Südfront erzwang. Die Reste der Truppen konnte General Anthemius Strellan mit letzter Kraft über die Themse retten. Dort haben sich Strellans Männer mit den tapferen Truppen von General Mallingham zusammengetan, um in einem letzten Gefecht den erbarmungslosen Ritt der Franzosen auf die Bevölkerung jenseits der Themse zu stoppen. 
+Dieses unehrenhafte Verhalten kann nur gesühnt werden, wenn jeder treue Brite nun seinen tapferen Beitrag bei er Verteidigung Londons leistet: Frauen und Männer, unterstützt unserer Truppen; verbarrikadiert die Straßen und blockiert den Feind. In wenigen Tagen ist unsere ruhmreiche Flotte zurück und die unsere Entlastungsarmee bei uns. Selbst der Held von Margate ist nun auf dem Weg zurück nach London und wird die Invasoren auf das Schlachtfeld von Azincourt zurückdrängen. Für das Empire; God save the Queen!
+
+
+
+## Die Schlacht um London
+
+### Global Examiner, New York, 16. Juli
+
+***Aus London berichtet unser Korrespondent Robert Woolworth.***
+
+Auch heute wieder ist die Hauptstadt des Empire in Aufregung und die Ereignisse überschlagen sich. Die Nachricht des Tages: Die französischen Truppen, die gestern in die nordöstlichen Vororte der Stadt eingedrungen sind, wurden besiegt! Den englische Gegenstoß führte Brigadier General Sir Evelyn Dapper, von seinen Männern liebevoll “Papa Dapper” genannt, der schon in Waterloo als Trommler gedient haben soll. Ihm gelang es über den Vormittag, die Franzosen aus den Vororten hinaus auf die Felder zu drängen, wo ab Mittag die inzwischen legendäre Kavalleriedivision Mallingham auftauchte. Eingeschlossen zwischen zwei Englischen Verbänden kapitulierte der französische Kommandeur am frühen Nachmittag. Gegen vier Uhr Nachmittags läuteten in London zur Feier dieses Sieges alle Glocken. Wandelt man jedoch durch die bis heute umkämpften Stadtviertel drängt sich nicht der Gedanke an Siegesfeiern auf. Die Straßen sind voll mit Leichen und Verwundeten aller Uniformfarben. An vielen Ecken sieht man Verwundetensammelpunkte, an denen Feldschere unter dem Stöhnen und Geschrei ihrer Patienten Amputationen vornehmen. Und dann diese Verwüstung: Zusammengebrochene Gebäude, Feuerwehrleute, die hin und her rennen, um der zahlreichen verbliebenen Schwelbrände Herr zu werden, Schutt, Barrikaden - es wird Monate dauern, dieses Stadtviertel wieder aufzubauen. Und man mag sich kaum vorstellen, wie es aussehen wird, sollten die Kämpfe irgendwann all die historischen Baudenkmäler im Stadtinnern erreichen. Daß das hier erst der Anfang sein könnte, haben die französischen Truppen südlich der Themse heute auf ihre Art nochmal kommuniziert. Zwar sind die Brücken nun gesprengt, aber der Süden der Stadt ist nun fest in französischer Hand. Um 17:45 gaben Kanonen vom gegenüberliegenden Themseufer aus drei symbolische Schüsse auf den Westminster Palace ab. Auch gegenüber dem Tower of London beginnen französische Soldaten, Gebäude zu demolieren, um Geschütze in Stellung zu bringen. Und, wie mir zwei Gentlenen berichten, die es heute Abend noch schwimmend über den Fluss geschafft haben, wurde an der Waterloo Station überall, teils mit offensichtlicher Gewalt, der Name der Station entfernt und durch den neuen Namen, “Gare de Rochester”, ersetzt. Über dem Gebäude weht nun eine Tricolore von geradezu absurden Dimensionen.
+

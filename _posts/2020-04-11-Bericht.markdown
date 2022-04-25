@@ -1,0 +1,343 @@
+---
+layout: post
+title: Die Invasion von 1883 - Ein Bericht
+date: 2020-04-11 13:32:20 +0300
+description: 
+img: EnglandMap.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: 
+---
+
+*Twelve Days to London* ist eine Konfliktsimulation auf der operativen Führungsebene inspiriert das alte *Strategische Kriegsspiel* der preußischen Armee. Den Hintergrund für das Szenario bilden die sog. *invasion scares* im England des späten 19. Jahrhunderts, die Befürchtung, England könne leicht einer Invasion durch eine andere europäische Großmacht zum Opfer fallen. Diese Vorstellung prägte schon im 19. Jahrhundert die Kriegsspielszenarien, die in der britischen Armee durchexerziert wurden. Das vorliegende Szenario wurde im April 2020 unter Leitung der *Conflict Simulation Group* mit Studierenden der Helmut-Schmidt-Universität der Bundeswehr in Hamburg durchgeführt.
+
+## Das Szenario
+### Vorgeschichte
+Im Juni 1882 weitet sich die Ägyptenkrise in der Folge der   englischen Bombardierung von Alexandria zu einem anglo-französischen Konflikt. Die neueradikalnationalistische Regierung Frankreichs beginnt im Januar 1883 zunächst im Geheimen mit Kriegsvorbereitungen, die ab März auch der englischen Seite nicht verborgen bleiben; entsprechende Vorbereitungen auf englischer Seite bleiben allerdings aus. Als Frankreich schließlich am  1.  Juni 1883 England den Krieg erklärt, befindet sich der größte  Teil der *Royal Navy* im Mittelmeer, die ohnehin vergleichsweise schwache *Channel Squadron* wird durch einen überraschenden Angriff französischer Torpedoboote am 20. Juni 1883 größtenteils ausgeschaltet. So bietet sich der französischen Führung ein Zeitfenster für eine Landung an der englischen Südküste, um in einem schnellen Schlag London einzunehmen und so den Krieg für sich zu entscheiden. Doch spätestens, wenn die Verbände der *Royal Navy* aus dem Mittelmeer eintreffen und den Kanal zurück erobern während zeitgleich Verstärkungen aus dem Norden in Südengland eintreffen, wird eine Invasionsarmee ohne Nachschub aus Frankreich keine Aussicht auf Erfolg mehr haben. Dem *État-Major* in Paris bleiben geschätzte 12 Tage London einzunehmen...
+
+Links: [Vorgeschichte](https://cosimwue.github.io/TDTL2020/1883/07/05/Kampf-im-Kanal.html)
+
+### Kräfteverhältnisse
+Das numerische Kräfteverhältnis zu Beginn der Invasion war etwa **1:1,75** zugunsten der französischen Invasionsstreitmacht, wobei jede Seite jeweils etwa ein Armeekorps mehr zum Einsatz brachte, als der Gegenseite bekannt war. Dem numerischen Ungleichgewicht gegenüber stand zum einen der Zeitdruck, unter dem die französischen Kräfte operieren mussten, und ein Ungleichgewicht an Infrastruktur und Informationsquellen zugunsten der Verteidiger: Die Englische Seite hatte zu Beginn die volle Kontrolle über das Eisenbahn- und Telegraphennetz, und die Aussicht darauf, wichtige Aufklärungsinformationen auch von der Bevölkerung zu erhalten.
+
+#### [England]({{site.baseurl}}/assets/docs/OOB_England.pdf)
+- ca. **61.800 Mann**
+- 55 Bataillone Infanterie
+- 32 Eskadronen Kavallerie
+- 42 Batterien Artillerie
+- Struktur
+  - 1st Corps
+  - 2nd (Colonial) Corps
+  - Yeomanry Cavalry Brigade
+  - 6 Regional Brigades
+
+#### [Frankreich]({{site.baseurl}}/assets/docs/OOB_Frankreich.pdf)
+- ca. **108.000 Mann**
+- 104 Bataillone Infanterie
+- 32 Eskadronen Kavallerie
+- 32 Batterien Artillerie
+- Struktur
+  - 1re Corps
+  - 2de Corps
+  - 3e Corps
+  - 7e Division de Cavallerie
+  - 8e Division de Cavallerie
+  - Division de Marine
+
+
+#### Andere Assets:
+- [Häfen]({{site.baseurl}}/assets/docs/Ports.pdf)
+- [Bahnhöfe]({{site.baseurl}}/assets/docs/Stations.pdf)
+- [Spionage]({{site.baseurl}}/assets/docs/Spionage.pdf)
+
+## Absichten und Pläne
+
+### England
+Team Rot konzentrierte sich am Anfang vor allem darauf, den Raum südlich von London in der Fläche und entlang der gesamten Küstenlinie zu verteidigen. Landungsversuche sollte möglichst schon an gleich an der Küste zurückgeschlagen werden, eine weitgehend gleichmäßige Verteilung der Kräfte sicher stellen, daß sich keine Invasionsstreitmacht ungehindert oder gar unbemerkt durch Südengland bewegen kann. Das *1st Corps* wurde hierzu in seine Brigaden aufgeteilt, die zunächst im Hinterland von Sussex verteilt wurde. Die beiden Divisionen des *2nd Corps* beorderte man ins Hinterland von Kent. Die verschiedenen Miliz- und Freiwilligenbrigaden sollten die erste Verteidigungslinie direkt an der Küste bilden. In London selbst verblieb nur eine schwache Reserve.
+
+### Frankreich
+Team Blau plante in insgesamt 4 Regionen gleichzeitig zu landen und den Feind so zur Aufteilung seiner Kräfte zu verleiten. Als primäre Gefahr für eigenen Plan wurde das Verbleiben starker feindlicher Reserven in London selbst gesehenen, durch mehrere möglichst überzeugende Scheinangriffe sollte der Gegner zum herausführen dieser Reserven aus London verleitet werden. Den Angriffsschwerpunkt setzten die Franzosen mit der Landung von 2 Armeekorps und einer Kavalleriedivision in Eastkent, die von dort aus entlang des südlichen Themseufers auf London zumarschieren sollten. Einen sekundären Schwerpunkt bildete die Landung eines weiteren vollständigen Armeekorps unmittelbar nördlich der Themsemündung. Noch weiter nördlich, bei Clacton, sollte eine Marinedivision an Land gehen, und Operationen gegen von Norden anrückende englische Verstärkungen abschirmen. Zur Ablenkung des Gegners sollte eine Kavalleriedivision an der Südküste landen, sich von dort möglichst auffällig Richtung London bewegen und Feindkräfte binden.
+
+## Ablauf
+
+### Tag 1 - 5. Juli 1883
+
+![Karte]({{site.baseurl}}/assets/img/Tag1.jpg)
+
+#### Französische Landungen.
+Am Morgen gehen französische Truppen in Shoreham, Folkestone,  Ramsgate, Margate, Southend, Shoeburyness und Clactonan Land. Bis auf Margate gelingen alle Landungen ohne Gegenwehr oder größere  Schwierigkeiten. Eine Ausnahme bildet Margate; dort trifft am Mittag die Queen’s French Legion ein.
+
+#### Schlacht von Margate.
+Die  Queen’s French Legion dringt im Westen und Südwesten in die  Stadt ein, in der gerade Teile der ersten Brigade der 12. DI  landen. Die französischen Truppen werden überrascht, der  Divisionskommandeur ist zwar bereits an Land, die Divisionsartillerie allerdings noch nicht. Nach heftigen Kämpfen wird die französische Brigade vollständig vernichtet, der  Divisionskommandeur gerät in englische Gefangenschaft. Die französischen Verluste sind mit 1.500 Toten und 3.000 Verwundeten erheblich, dazu geraten weitere 2.500 Soldaten in englische Gefangenschaft; die Queen’s French Legion erbeutet zudem größere Mengen an  Waffen und  Munition.  Mit dem  erbeuteten  Material wird  in  den  folgenden Tagen ein Freiwilligenbataillon ausgerüstet, das die Queen’s French Legion verstärkt.
+
+#### 1. Gefecht von Folkestone.
+Nachdem  die  erste  Brigade  der  7e  DC  in  Folkestone  an  Land  gegangen  ist, dringen Angehö-rige der Yeomanry Brigade in die Außenbezirke der Stadt ein. Es kommt zu einzelnen Gefechten  in den Vororten. Beide Seiten kämpfen zu Fuß ungewohntem Gelände, nach etwa einer Stunde gewinnen die Franzosen aufgrund ihrer numerischen Überlegenheit die Oberhand. Beide Seiten erleiden nur geringe Verluste. Die Yeomanry Brigade zieht sich auf eine Position unmittelbar außerhalb Folkestones zurück.
+
+#### Links
+- [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/05/Ruhe-vor-dem-Sturm.html)
+- [Französische Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_1.pdf)
+- [Britisches Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_1.pdf)
+- [Britische Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_1.txt)
+
+
+### Tag 2 - 6. Juli 1883
+![Karte]({{site.baseurl}}/assets/img/Tag2.jpg)
+
+#### 2. Gefecht von Folkestone.
+Nach vollständiger Anlandung der 7e DC stößt diese entlang der   Straße Folkestone–Ashford vor und trifft wenige Kilometer außerhalb von Folkestone auf die Yeomanry Brigade. Diese kann dem Angriff nicht mehr ausweichen und wird von der zahlenmäßig deutlich überlegenen 7e DC vollständig zerschlagen. Die englischen Verluste belaufen sich auf c. 150 Tote und c. 450 Verwundete, die 7e DC hat c. 50 Tote und c. 100 Verwundete zu beklagen. Zwei Eskadronen der Yeomanry Brigade waren zuvor detachiert worden und bilden nun in Ashford die Kavalleriegruppe Drake. Nach der Schlacht wendet sich der Kommandeur der 7e DC mit der ersten Brigade Richtung Canterbury, die zweite Brigade bewegt sich auf Ashford zu.
+
+#### Schlacht von Margate. 
+In den Morgenstunden tritt die 7e DI von Ramsgate  aus  zum Angriff gegen Margate an. Die Queen’s French Legion, die Stellungen in Häusern am Stadtrand bezogen hat, kann sich nach mehrstündigen, heftigen Kämpfen behaupten und den französischen Angriff abwehren. Die über offenes Gelände angreifende 7e DI  erleidet  Verluste  in  Höhe  von  c.  500  Toten  und  1.000  Verwundeten, die Queen’s French Legion hat c. 100 Tote und c. 300 Verwundete zu beklagen. Nach dem gescheiterten Eroberungsversuch verbleibt die 7e DI mit einer Brigade und der Divisionsartillerie vor Margate, um einen Ausbruch der Queen’s French Legion zu verhindern.
+
+#### Links
+- [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/06/Invasion.html)
+- [Französische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_1.txt)
+- [Französisches Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_2.pdf)
+- [Französische Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_2.pdf)
+- [Britische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_1.txt)
+- [Britisches Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_2.pdf)
+- [Britische Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_2.txt)
+
+
+### Tag 3 - 7. Juli 1883
+![Karte]({{site.baseurl}}/assets/img/Tag3.jpg)
+
+#### Reitergefecht von Ham Street.
+Am späten Vormittag treffen zwei von 6 Division detachierte Eskadronen auf eine Eskadron der zweiten Brigade der 7e DC, die mit dem Auftrag um Ashford herum entsandt worden war, feindliche Kommunikationslinien zu zerstören. Das Aufeinandertreffen kommt für beide Seiten überraschend, die französische Eskadron hat gerade die Telegraphen-verbindung von Ashford nach Süd-westen unterbrochen. Den Engländern gelingt es bei geringen eigenen Verlusten von c. 10 Toten und c. 40 Verwundeten, die französische Eskadron von rund 120 Mann vollständig zu zerschlagen.
+
+#### Schlacht von Worthing.
+Am Morgen versucht die 8e DC, aus ihrem Brückenkopf Richtung Nordwesten auszubrechen. Gleichzeitig treten die Brigade Dapper und die zweite Brigade der 5 Division von Stellungen bei Bramber zu Angriff gegen Shoreham an. Zunächst scheitert der Versuch der 8e DC, in unwegsamem Gelände bergauf durchzubrechen, unter schweren Verlusten, die erste Brigade der Division wird vollständig zerschlagen, die Division verliert ihre Divisionsartillerie.2 Die zweite Brigade geht ungeordnet nach Shoreham zurück, wo sie von der Brigade Dapper und der zweiten Brigade der 5 Division angegriffen wird. Unter der Führung ihres im infanteristischen Gefecht erfahrenen Divisionskommandeurs gelingt es den Resten der 8e DC allerdings, den Angriff abzuwehren und sich in die Häuser des Ortes zurückzuziehen.3 Die englischen Verluste belaufen sich insgesamt auf c. 150 Tote und c. 400 Verwundete, die Franzosen verlieren c. 500 Tote und c. 700 Verwundete.
+
+#### Links
+- [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/07/Schlacht-um-Margate.html)
+- [Französische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_2.txt)
+- [Französisches Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_3.pdf)
+- [Französische Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_3.pdf)
+- [Britische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_2.txt)
+- [Britisches Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_3.pdf)
+- [Britische Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_3.txt)
+
+
+### Tag 4 - 7. Juli 1883
+![Karte]({{site.baseurl}}/assets/img/Tag4.jpg)
+
+#### Kapitulation von Shoreham.
+Am Morgen treten die Brigade Dapper, die zweite Brigade der 5 Division sowie die Navy Brigade nach intensive Feuervorbereitung duch die Navy Brigade zum Angriff auf Shoreham an. Angesichts der erdrückenden englischen Übermacht kapituliert der Kommandeur der 8e DC schließlich nach kurzem Feuergefecht. Er geht mit insgesamt 600 Überlebenden der Division in Gefangenschaft. Die 8e DC ist damit vollständig zerschlagen.
+
+#### Schlacht von Boughton
+Am Morgen greifen Teile des ersten französischen Korps (8e DI) sowie Teile des dritten Korps (12e DI, 108e Bde, Korpsartillerie) die in Stellungen bei Boughton stehende 1 Colonial Division an. Nach heftigen Kämpfen wird die Division nahezu völlig zerschlagen, lediglich zwei Bataillone können entkommen. Die englischen Verluste sind mit insgesamt c. 5.500 Mann erheblich, die Franzosen verlieren c. 3.000 Mann.
+
+#### Links
+- [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/08/Englands-Schande.html)
+- [Französische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_3.txt)
+- [Französisches Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_4.pdf)
+- [Französische Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_4.pdf)
+- [Britische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_3.txt)
+- [Britisches Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_4.pdf)
+- [Britische Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_4.txt)
+
+
+
+### Tag 5 - 8. Juli 1883
+![Karte]({{site.baseurl}}/assets/img/Tag5.jpg)
+
+#### Die Lage bei Wickham.
+Das 2de Corps ist inzwischen vollständig an Land und Richtung London vorgerückt; nun ist allerdings sowohl der Weg nach London durch eine vor der Front des Korps operierende Kavalleriebrigade blockiert, als auch der Weg nach Nordwestern durch eine bei Wickham eingegrabene Freiwilligenbrigade. In dieser Situation bittet der Korpskommandeur um Anweisungen aus Paris.
+
+#### Gefecht an der Watling Street.
+Bei ihrem Vormarsch entlang der Watling Street trifft die die Spitze des 1re Corps bildende 8e DI auf ein Bataillon der 1 Colonial Division, das es am Vortag geschafft hatte, sich der Vernichtung zu entziehen. Jetzt erweist sich die Über-macht der Franzosen als zu stark, das Bataillon geht bis auf eine Kompanie, die sich nach Westen absetzen kann, unter.2 Geringen Verlusten der 8e DI in Höhe von c. 80 Toten und c. 220 Verwundeten stehen deutlich höhere Verluste auf Seiten der Australier von c. 200 Toten und c. 450 Verwundeten gegenüber; c. 150 unverwundete Soldaten geraten in französische Gefangenschaft.
+
+#### Gefecht bei Wye.
+Bei Wye treffen die sich auf Ashford zurückziehende Kavalleriegruppe Drake und eine kanadische Eskadron auf die zweite Brigade der 7e DC. Es gelingt der englischen Kavallerie, den französischen An-griff abzuwehren und sich auf Ashford zurückzu-ziehen.3 Die Engländer verlie-ren c. 10 Tote und c. 40 Verwundete, die französischen Verluste belaufen sich auf c. 10 Tote und c. 40 Verwundete.
+
+#### Links
+- [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/09/Siegestaumel.html)
+- [Französische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_4.txt)
+- [Französisches Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_5.pdf)
+- [Französische Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_5.pdf)
+- [Britische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_4.txt)
+- [Britisches Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_5.pdf)
+- [Britische Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_5.txt)
+
+
+
+### Tag 6 - 9. Juli 1883
+![Karte]({{site.baseurl}}/assets/img/Tag6.jpg)
+
+#### Schlacht von Wickham – Teil 1:
+Bei Wickham wird am Morgen die die Flanke des 2de Corps bedrohende Freiwilligenbriagde Hardtack von zwei französischen Brigaden (107e Brigade und erste Brigade der 10e DI), die von der Korpsartillerie des 2de Corps unterstützt werden, angegriffen. Angesichts der drückenden französischen Überlegenheit können die Engländer nur etwa eine Stunde Widerstand leisten, bevor die englische Brigade völlig aufgerieben ist.1 Die Engländer verlieren c. 800 Tote und c. 700 Verwundete, c. 200 unverwundete Soldaten geraten in französische Gefangenschaft, rund 100 Angehörige der Brigade werden versprengt. Die französischen Verluste liegen bei c. 300 Toten und c. 700 Verwundeten.
+
+#### Schlacht von Wickham – Teil 2.
+Während Teile der 10e DI im Verbund mit de 107e Brigade die Stellungen der Freiwilligenbrigade Hardtack angreifen, versucht die englische Kavalleriebrigade des 1 Corps, mit einem Entlastungsangriff gegen die 9e Druck den französischen Angriff in Unordnung zu bringen. Es gelingt zwar nicht, den Angriff gegen die Stellungen der Brigade Hardtack zu stoppen, doch kann die englische Kavalleriebrigade die 9e DI einen schweren Schlag versetzen; die Division verliert ihre Artillerie und muß ungeordnet zurückgehen.2 Die englischen Verluste halten sich mit c. 40 Toten und c. 110 Verwundeten in Grenzen, die französische 9e DI verliert c. 400 Tote und c. 800 Verwundete. Unmittelbar nach der Schlacht verlegt die englische Kavalleriebrigade in Eilmärschen in den Raum Chelmsford, wo aus ihr und der dort operierenden Colonial Cavalry Brigade des 2 Corps die Kavalleriedivision Mallingham gebildet wird.
+
+#### Patrouillengefecht bei Maidstone
+Bei Maidstone treffen zwei englische Meldereiter, die vom Stab des 2 Corps in Maidstone nach Ashford auf eine französische Kavalleriepatrouille der zweiten Brigade der 7e DI; die Meldereiter werden gefangengenommen, können die beförderte Nachricht aber rechtzeitig vernichten.
+
+#### Links
+- [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/10/Aus-Kent.html)
+- [Französische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_5.txt)
+- [Französisches Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_6.pdf)
+- [Französische Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_6.pdf)
+- [Britische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_5.txt)
+- [Britisches Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_6.pdf)
+- [Britische Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_6.txt)
+
+
+
+### Tag 7 - 10. Juli 1883
+![Karte]({{site.baseurl}}/assets/img/Tag7.jpg)
+
+#### Schlacht von Chelmsford.
+Vor Chelmsford greift am späten Vormittag die aus der Kavalleriebrigade des 1 Corps und der Colonial Cavalry Brigade des 2 Corps neugebildete Kavalleriedivision Mallingham die französische Marinedivision an, die sich Richtung Südosten bewegt. Auf offenem Gelände und ohne eigene Artillerieunterstützung können die Franzosen dem englischen Angriff nur wenig entgegensetzen, die französische Division wird vollständig zerschlagen.1 Die englischen Verluste sind angesichts der Umstände mit c. 150 Toten und c. 400 Verletzten gering, die Franzosen verlieren c. 1.000 Tote, c. 3.000 Verwundete, c. 4.000 unverwundete Divisionsangehörige geraten in Gefangenschaft, darunter auch der französische Divisionskommandeur.2 Maßgeblichen Anteil am englischen Erfolg hat die englische Artillerie, die ohne Gegenwehr auf den Feind wirken kann. Die englische Kavallerie wird den gesamt folgenden Tag mit der eigenen Reorganisation und der Übergabe der Gefangenen an eigene Truppen in Chelmsford beschäftigt sein und kann erst wieder am folgenden Tag den Marsch Richtung London antreten.
+
+#### Schlacht von Chatham
+Die strategisch wichtige Brücke über der Medway bei Rochester ist von der 12e DI gewonnen worden; die Division steht bereits auf dem westlichen Flußufer und wartet auf das Eintreffen der übrigen Kräfte des 3e Corps sowie des 1re Corps. Am frühen Nachmittag wird sie von drei englischen Brigaden, der ersten und dritten Brigade der 5 Division, die von der Divisionsartillerie unterstützt werden, sowie der Navy Brigade, angegriffen. Es gelingt der 12 DI, sich nach längerem Gefecht geordnet über die Brücke zurückzuziehen; die Brücke bleibt in der folgenden Nacht im Niemandsland zwischen englischen Stellungen am Westufer des Medway und den französischen Stellungen am Ostufer.3 Die englischen Verluste betragen c. 200 Tote und c. 600 Tote, die französischen Verluste sind mit c. 300 Toten und c. 800 Verwundeten etwas höher.
+
+#### Kavalleriegefecht um Ashford
+Vor Ashford greift die neugebildete 2 Colonial Cavalry Brigade die Ashford beobachtende zweite Brigade der 7e DC an. Nach kurzem Gefecht wird die französische Kavallerie in die Flucht geschlagen; in den folgenden Stunden klärt die 2 Colonial Cavalry Brigade die Straße nach Canterbury auf.4 Die englischen Verluste betragen c. 10 Tote und c. 40 Verwundete, während die Franzosen c. 50 Tote und c. 150 Verwundete verlieren. Die eigentlich ebenfalls der englischen Kavalleriebrigade unterstellte vierte Eskadon der 19 Hussars stößt am Abend nicht aus Dover zur Brigade dazu, sondern klärt gegen Ramsgate auf.
+
+#### Links
+- [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/11/Polizeiskandal.html)
+- [Französische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_6.txt)
+- [Französisches Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_7.pdf)
+- [Französische Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_7.pdf)
+- [Britische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_6.txt)
+- [Britisches Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_7.pdf)
+- [Britische Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_7.txt)
+
+
+
+### Tag 8 - 11. Juli 1883
+![Karte]({{site.baseurl}}/assets/img/Tag8.jpg)
+
+#### 1. Schlacht von Rochester.
+Den Weg der beiden Richtung London vorstoßenden Korps blockiert am Medwayübergang bei Rochester weiterhin eine englische Kampfgruppe aus drei Brigaden. Am späten Vormittag greifen dort die 8e DI und die 12e DI unterstützt von der Korpsartillerie des 1re Corps und des 3e Corps an; gleichzeitig gelingt es der ersten Brigade der 7e DC, die um eine Eskadron aus der zweiten Brigade verstärkt ist, in den Rücken der englischen Positionen zu gelangen. Nach heftigen Kämpfen können die Franzosen den Flußübergang erzwingen und die englischen Kräfte vollständig zerschlagen; lediglich geringe Teile der Navy Brigade in Kompaniestärke gelingt ein Rückzug nach Cliffe.1 Den französischen Truppen steht nun der Weg nach London offen; die Schlacht war für beide Seiten verlustreich: die Franzosen verlieren insgesamt c. 1.500 Tote und c. 2.500 Verwundete, während die Verluste der Engländer c. 3.000 Tote und c. 5.5000 Verwundete betragen, c. 1.500 unverwundete Soldaten geraten in Gefangenschaft. Maßgeblich verantwortlich für den französischen Erfolg war das Auftauchen französischer Kavallerie im Rücken der englischen Positionen.
+
+#### Kavalleriegefecht von Boughton.
+Vor Boughton greift die 2 Colonial Cavalry Brigade die bereits am Vortag geschlagene zweite Brigade der 7e DC an. Diese wird erneut geschlagen und zieht sich Richtung Whitstable zurück.2 Die englischen Verluste sind mit c. 10 Toten, 40 Verwundeten gering, die französische Kavallerie verliert c. 50 Tote, 150 Verwundete.
+
+#### Gefecht von Boughton.
+Nachdem die französische Kavallerie vertrieben worden ist, greift die erste (kanadische) Brigade der 2 Colonial Division unterstützt von zwei Batterien der Divisionsartillerie das von zwei Bataillonen der 11e DI gehaltene Boughton an. Nach kurzem Gefecht ziehen sich die Franzosen ungeordnet Richtung Whitstable zurück.3 Die englischen Verluste betragen c. 50 Tote und c. 150 Verwundete, die Franzosen verlieren c. 200 Tote und c. 400 Verwundete.
+
+#### Gefecht von Faversham.
+Während in Boughton Kanadier und Franzosen um die Kontrolle des Ortes ringen, greift die zweite Brigade der 2 Colonial Division unterstützt von den übrigen drei Batterien der Divisionsartillerie das von einem Bataillon der 11e DI sowie eine Batterie der Divisionsartillerie der 11e DI gehaltene Faversham an. In einem kurzen, aber heftigen Gefecht werden die französischen Truppen vollständig vernichtet.4 Die Engländer verlieren c. 100 Tote und 300 Verwundete, die französischen Verluste betragen c. 300 Tote und c. 500 Verwundete; rund 200 unverwundete Soldaten geraten in englische Kriegsgefangenschaft.
+
+#### Links
+- [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/12/Charge.html)
+- [Französische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_7.txt)
+- [Französisches Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_8.pdf)
+- [Französische Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_8.pdf)
+- [Britische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_7.txt)
+- [Britisches Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_8.pdf)
+- [Britische Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_8.txt)
+
+
+### Tag 9 - 12. Juli 1883
+![Karte]({{site.baseurl}}/assets/img/Tag9.jpg)
+
+#### Gefecht von Whitstable
+Am Nachmittag trifft die 2 Colonial Division vor Whitstable ein. Die Verladeoperationen werden durch die zweite Brigade der 7e DC und die Divisionsartillerie der 11e DI geschützt. Nach kurzem, scharfem Gefecht gelingt es den Engländern, die französischen Kräfte vollständig zu zerschlagen.1 Die 2 Colonial Division sowie die 2 Colonial Cavalry Brigade verlieren c. 150 Tote und c. 350 Verwundete, die Franzosen haben insgesamt c. 150 Tote und 550 Verwundete zu beklagen, rund 200 Mann geraten unverwundet in englische Gefangenschaft.
+
+#### Links
+- [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/13/Hannibal-ante-portas.html)
+- [Französische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_8.txt)
+- [Französisches Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_9.pdf)
+- [Französische Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_9.pdf)
+- [Britische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_8.txt)
+- [Britisches Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_9.pdf)
+- [Britische Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_9.txt)
+
+
+### Tag 10 - 13. Juli 1883
+![Karte]({{site.baseurl}}/assets/img/Tag10.jpg)
+
+#### Schlacht von Upminster.
+Mit Schutz seiner Flanke hat das 2de Korps die zweite Brigade der 9e DI beauftragt. Aufgrund eines Mißverständnisses wird die Brigade nicht durch Artillerie unterstützt.1 Die französische Brigade wird am späten Vormittag von der Kavalleriedivision Mallingham angegriffen uns aus ihren Stellungen getrieben; bei geringen eigenen Verlusten von c. 10 Toten und c. 40 Verwundeten können die Engländer einen deutlichen Sieg erringen. Die Franzosen verlieren c. 350 Tote und c. 650 Verwundete, das 2de Corps hat keinen Kontakt mehr mit den rückwärtigen Stellen, da die Verbindung nach Southend nun unterbrochen ist.
+
+#### 1. Schlacht von Hackney
+Bereits am Morgen tritt das 2de Corps mit der 10e DI, der ersten Brigade der 9e DI, der 107. Brigade unterstützt von der Korpsartillerie zum Angriff auf die englischen Verteidigungsstellungen am Fluß Lea an, die von der ersten Brigade der 6 Division, der zweiten Brigade der 5 Division, der Lewes Loyal Legion und der Brigade Dapper gehalten werden. Nach mehreren Stunden kann der französische Angriff abgewiesen werden.2 Die schweren Kämpfe fordern auf beiden Seiten höhere Verluste; so verlieren die Engländer c. 500 Tote und c. 700 Verwundete, die Franzosen c. 700 Tote und c. 1.500 Verwundete.
+
+#### Ereignisse in und um London
+Während nördlich der Themse die 1. Schlacht von Hackney tobt, sammeln sich südlich der Themse in St Mary Cray mehrere teils versprengte englische Kavallerieeskadronen; der Kommandeur der ersten Eskadron 19 Hussars, Major Napier, entschließt sich, eine Brigade zu bilden, um die Situation entlang der Watling Street aufzuklären.3 Am Nachmittag trifft die Brigade Napier auf französische Kavallerie, die an der Flanke des vorstoßenden 1re Corps marschiert. Es kommt zum Gefecht zwischen der ersten Brigade der 7e DC, die vom französischen Divisionskommandeur persönlich geführt wird, und der englischen Kavalleriebrigade. Letztere wird in die Flucht geschlagen und weicht nach Süden aus.4 Die französischen Verluste sind mit c. 10 Toten und c. 40 Verwundeten gering, die englische Kavallerie verliert c. 25 Tote und c. 125 Verwundete.
+
+#### Links
+- [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/14/Krieg-in-London.html)
+- [Französische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_9.txt)
+- [Französisches Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_10.pdf)
+- [Französische Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_10.pdf)
+- [Britische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_9.txt)
+- [Britisches Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_10.pdf)
+- [Britische Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_10.txt)
+
+
+### Tag 11 - 14. Juli 1883
+![Karte]({{site.baseurl}}/assets/img/Tag11.jpg)
+
+Am elften Tag der französischen Invasion finden die bislang heftigsten Gefechte statt.
+
+#### 2. Schlacht von Hackney.
+Am Morgen treten die xyz sowie die Brigade Dapper aus ihren Stellungen heraus zu einem Gegenangiff gegen die am Vortag abgeschlagenen französischen Truppen des 2de Corps an, die sich ihrerseits auf einen neuen Angriff vorbereiten. Trotz deutlicher zahlenmäßiger Unterlegenheit gelingt es den englischen Einheiten, in hartem Ringen die gegnerischen Einheiten aus den äußeren Stadtvierteln weiter herauszudrängen. Am frühen Nachmittag stehen die englischen Truppen in den Außenbezirken, sind aber aufgrund hoher eigener Verluste teilweise nicht mehr kampffähig.1
+
+
+#### Schlacht von Dagenham.
+Während die 2. Schlacht von Hackney tobt, greift die Kavalleriedivision Mallingham erneut die bereits am Vortag zurückgedrängte zweite Brigade der 9e DI an. Ohne Artillerieunterstützung und noch von den Ereignissen des Vortages erschüttert kann die Kavalleriedivision Mallingham der französischen Brigade schwere Verluste zufügen; völlig ungeordnet fliehen die Überlebenden in die Dagenham Marsh. 2
+
+#### 3. Schlacht von Hackney.
+Unmittelbar nach der Zerschlagung der zweiten Brigade der 9e DI tauchen aus den Vororten die durch den englischen Angriff zurückgedrängten Teile des 2de Corps auf. Trotz seiner deutlichen numerischen Unterlegenheit greift Mallingham den Feind mit seiner Kavalleriedivision sofort an, und tatsächlich gelingt es ihm, den Feind wieder in Richtung der nun von den englischen Truppen besetzten Vororte zurückzutreiben.3 Angesichts der Bedrohung durch die siegreiche englische Kavallerie im Rücken und die inzwischen am Stadtrand aufgefahrene englische Artillerie von vorne entscheidet der Korpskommandant schließlich, die Waffen zu strecken.4 Am Abend gehen tausende französische Soldaten in Gefangenschaft, lediglich der Kommandeur der 9e DI schlägt sich mit einigen seine Stabsoffiziere in die Dagenham Mash durch, sammelt dort die Reste der zweiten Brigade und führt sie nach Rainham.
+
+#### Gefecht von Ightham
+Südlich von London folgt die erste Brigade der 7e DC der Kavalleriebrigade Napier; dieser gelingt es nicht, sich im Raum Westerham der Verfolgung zu entziehen.5 Bei Ightham kommt es schließlich zum Gefecht, die erfahrenere und von einem Kavallerieexperten geführte französische Kavallerie kann die englische Kavallerie in die Flucht schlagen.6
+
+#### 2. Schlacht von Rochester.
+Während in Rochester, das bislang nur von schwachen französischen Kräften gehalten worden war, die verbliebenen Teile der 7e DI (erste Brigade und Divisionsartillerie) an Land gehen, um von dort aus zum 1re Corps vorzustoßen, greift die 2 Colonial Division am Vormittag die Stadt an. Da es 2 Colonial Cavalry Brigade gelungen war, zum östlichen Ufer des Medway vorzudringen, kann englische Artillerie von beiden Ufern in das Geschehen eingreifen. Ohne Rückzugsmöglichkeit wird die erste Brigade der 7e DI vollständig zerschlagen, der Divisionskommandeur gerät in Gefangenschaft.7 Einzig der noch nicht angelandeten Divisionsartillerie gelingt der Rückzug; sie steht am Abend eingeschifft in der Medwaymündung. Rochester ist damit wieder in englischen Händen.
+
+#### Links
+- [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/16/Wunder-von-Hackney.html)
+- [Französische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_10.txt)
+- [Französisches Lagebild]({{site.baseurl}}/assets/docs/Karte_BLAU_Tag_11.pdf)
+- [Französische Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_11.pdf)
+- [Britische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_10.txt)
+- [Britisches Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_11.pdf)
+- [Britische Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_11.txt)
+
+
+
+### Tag 12 - 15. Juli 1883
+![Karte]({{site.baseurl}}/assets/img/Tag12.jpg)
+
+#### Lage vor Maidstone.
+Während es in London ruhig bleibt, wird die Kavalleriebrigade Napier weiterhin von der ersten Brigade der 7e DC verfolgt. Es gelingt Napier aber, sich rechtzeitig in das inzwischen von der Queen’s French Legion besetzte Maidstone zurückzuziehen. Angesichts des Umstandes, daß die Stadt von feindlicher Infanterie und Artillerie gehalten wird, zieht sich die französische Kavallerie zurück.
+
+Um Mitternacht tritt an allen Fronten ein Waffenstillstand zwischen England und Frankreich in Kraft.
+
+#### Links
+- [Pressemeldungen](https://cosimwue.github.io/TDTL2020/1883/07/17/Waffenstillstand.html)
+- [Französische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_BLAU_Tag_11.txt)
+- [Französische Befehle]({{site.baseurl}}/assets/docs/Befehl_BLAU_Tag_12.pdf)
+- [Britische Meldungen]({{site.baseurl}}/assets/docs/Meldungen_ROT_Tag_11.txt)
+- [Britisches Lagebild]({{site.baseurl}}/assets/docs/Karte_ROT_Tag_12.pdf)
+- [Britische Befehle]({{site.baseurl}}/assets/docs/Befehl_ROT_Tag_12.txt)
+
+
+## Ergebnis
+
+Der Feldzug endet in einer strategischen Pattsituation. Das französische Ziel, das Königreich mit einen schnellen Enthauptungsschlag zu treffen und Verhandlungen zu eigenen Bedingungen zu erzwingen konnte nicht vollständig erreicht werden, was primär der vollständigen und kampflosen Aufgabe Südlondons und Sprengung der Themsebrücken durch die englische Seite geschuldet ist. Auf der anderen Seite stehen am 15. Juli 2 Französische Armeecoprs im Süden Londons im Süden Londons. Die französischen Truppen sind zu diesem Zeitpunkt von Versorgung und Kommunikation abgeschnitten. Sie dort gewaltsam zu entfernen würde aber vermutlich wochenlange Häuserkämpfe erfordern, auf britischer Seite weit über 10.000 weitere Leben fordern, und die Innenstadt Londons in ein Trümmerfeld verwandeln. Das ist, angesichts der Ereignisse um die Pariser Kommune 1871 sicher allen beteiligten sehr bewusst, und stärkt die französische Verhandlungsposition.
+
+### Das Ergebnis in Zahlen:
+
+19 Englische Siege in 26 Schlachten und Gefechten
+
+Frankreich:
+- 12520 Tote
+- 13480 Verwundete
+- 37820 Vermisste
+
+England:
+
+- 8715 Tote
+- 9965 Verwundete
+- 13950 Vermisste
+
+
+
+
+

@@ -1,0 +1,36 @@
+---
+layout: post
+title: Tag 8 - The Charge of the Heavy Brigade
+date: 1883-07-12 13:32:20 +0300
+description: 
+img: charge.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: 
+---
+Die Meldungen des Tages: +++ Die Ritter der schweren Brigade siegen bei Wickham und Chelmsford. +++ Französische Division bei Chelmsford vernichtet. +++ Franzosen am Übergang über den River Medway gehindert +++ 
+
+![Karte]({{site.baseurl}}/assets/img/chelmsford13jul.jpg)
+
+## Die Hufe des Zorns
+
+### Daily Telegraph, London, 12. Juli
+
+Wie Donnerhall dröhnen fünfzehnhundert fliegende Hufe in der Ebene von Chelmsford. Die Invasoren klammern sich zitternd an ihre Gewehre. Und das hier ist nicht Minden oder Imkerman, wo unsere Thin Red Line stoisch den Ansturm der Kavallerie erwartet. Nein, hier sind unsere Jungs die auf den Pferden, der Feind rottet sich in einem feigen Caree zusammen. Aber das hilft ihm nicht. Anthony Boyle, Viscount Mallingham, prescht mit erhobenen Schwerte voran, neben ihm in gleißendem Rot die Dragoon Guards, die in dieser Heavy Brigade die erste Reihe bilden. Gestern noch haben sie in einer blutigen Schlacht bei Wickham die Franzosen das Fürchten gelehrt, heute sind sie hier vor Chelmsford angetreten. Heute reiten sie wieder, die Ritter des Empires, für den heiligen Zorn der Nation, den feigen Invasoren zum Verderben, wenn es sein muß, bis ans Ende der Welt. Das blaue Viereck zieht sich immer weiter zusammen. Feige Schüsse reißen tapfere junge Männer aus ihren Sätteln, bringen stolze Schlachtrösser zu Fall. Doch all das ist vergebens. Anthony Boyle, Viscount Mallingham, reitet allen voran, lässt selbst das wehende Banner der Dragoon Guards weit hinter sich. Ein letztes ängstliches Aufstöhnen geht durch die Reihen den Franzosen und dann donnern die Hufe des Zorns über sie hinweg...
+
+![Karte]({{site.baseurl}}/assets/img/dover13jul.jpg)
+
+## Aus dem freien Dover
+
+### Die Woche im Bild, Bern, 12. Juli
+***unser Auslandskorrespondent Rudolf Sternberg berichtet.***
+
+Ein neuer Tag ist angebrochen in Dover, und wie die letzten Tage auch herrscht eine fast schon irritierende Ruhe. Vom Krieg ist hier praktisch nichts zu spüren, auch die Kavallerieeskadron, die vor zwei Tagen noch hier war, ist inzwischen wieder abgezogen. Vor seinem Abmarsch hatte ich noch Gelegenheit, mit dem Captain der Husaren zu sprechen, und freimütig berichtete er, sein Auftrag bestünde nun darin, sich in Canterbury einer neugebildeten Kavalleriebrigade anzuschließen. Einerseits stimmte ihn diese Aussicht froh, denn nach langen Tagen ereignisloser Aufklärung könne er so nun tatsächlich den Feind bekämpfen, andererseits stünde die Brigade unter dem Kommando eines australischen Divisionskommandeurs, und ob Husaren wirklich kolonialen Amateuren unterstellt werden sollten, sei doch fraglich. Nun ist er mit seinen Männern abmarschiert, aus den Dovern um Dover hört man ebenfalls viel von den Soldaten aus den Kolonien, allerdings nur Gutes. Mir berichtete ein Bauer aus Barham, sowohl die Australier als auch die Kanadier, die nun in größerer Zahl zu sehen seien, könne man zwar kaum verstehen, aber sie seien nicht nur höflich, sondern würden auch darauf brennen nach längerer Untätigkeit endlich den Feind bekämpfen zu können. Auch werden erste Stimmen hier in Dover laut, die lokale Miliz der Dover Defence League solle nach Folkestone marschieren und die dort befindlichen Franzosen angreifen. Dem Vernehmen nach hat der Kommandeur der Garnison, dem auch die DDL unterstellt ist, dem allerdings eine klare Absage erteilt.
+
+
+## Steht auf für Cyrus S.! ##
+### The modern Woman, London.
+
+***Unsere Reporterin, Sibyl Busby, berichtet.***
+
+Vor wenigen Tagen hatte ich meinen Leserinnen vom schockierenden Fall des unbescholtenen Bürgers Cyrus S. berichtet. Unschuldig verdächtigt wurde er verhaftet und fast einen Tag lang von der Polizei gefoltert. Bislang weigert sich die lokale Polizeibehörde, in irgendeiner Form zu reagieren. Das ist unerhört! Trotz des derzeit andauernden Krieges - oder gerade deswegen, denn der Spion, den Cyrus S. anzeigen wollte, treibt vermutlich immer noch sein Unwesen! - hat sich die Redaktion von The modern Woman daher entschlossen, ein Aktionskommittee “Londonerinnen für Cyrus” zu bilden und morgen zu einer großen Demonstration aufzurufen! Lassen Sie uns alle zusammenkommen, ein Zeichen unserer Solidarität mit Cyrus S. abgeben, unseren Patriotismus demonstrieren und endlich Aufklärung über diese absonderlichen Ereignisse fordern. Gleichzeitig wird das Kommittee Kontakt zu einem der führenden Spezialisten auf dem Gebiet der Kriminalistik aufnehmen, um den Fall Cyrus S. weiterzuverfolgen und insbesondere den feindlichen Spion zu enttarnen. Auch hier scheint sich ein entsprechender Skandal anzudeuten, über den in einer der nächsten Ausgaben eingehender berichtet werden wird. An dieser Stelle nur soviel - anscheinend wurde dieser landes-, ja weltweit führende Spezialist aus seiner Wohnung vertrieben, in der dann ein Möchtegern-General sein Quartier bezog, der nun von einer Gruppe älterer Gentlemen geschützt wird. Wir konnten Kontakt zum Kommandeur dieser merkwürdigen Truppe aufnehmen und berichten in einer der nächsten Ausgaben- 
+

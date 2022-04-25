@@ -1,0 +1,134 @@
+11.Juli 1883
+Alle Truppenteile sind angehalten, täglich die eigene Lage/Lageänderungen/ausgeführte Aufträge/Feind zu melden.
+Polizeien im Raum London sollen Funktionsfähigkeit der Telegraphennetze prüfen.
+BHF Horsham soll erweiterte Zugkapazitäten vorbereiten und schnelles Verladen von Geschützen vorbereiten.
+BFH Croydon: Schickt einen (langen) Zug nach Brighton. 
+Freiwilligenbrigaden
+NavBrig: Brighton
+    • Auftrag: Angriff 
+    • Eigene Kräfte greifen Shoreham von Norden aus an, NavBrig schieß dazu Feind in Shroeham flankierend Sturmreif (obacht nicht die eigenen Leute beschießen)
+    • Benötigen außerdem Meldung, über Art/Stärke/Verhalten des Fd dort
+    • BGD wird zunächst wieder direkt dem HQ London unterstellt und verlässt Brighton
+LLL: Stg7 (ostw Hartfield)
+    • Auftrag: Eilmarsch
+    • Schnellstmöglich Verlegung nach London, unter geschickter Nutzung Eisenbahnsystem (Croydon), falls vorteilhaft
+    • London durch fdl Korps bedroht
+    • Eig Art folgt selbstständig im Laufschritt, da fdl KavKr im Raum ostw operieren
+BrigDapper in Bramber:
+    • Auftrag: Angriff
+    • Benötigen Meldung, über Art/Stärke/Verhalten des Fd in Shoreham 
+    • Wir gehen davon aus, dass Sie, wie Welltington bei Waterloo, einen unterlegenen franz Fd in Shoreham von ihrer Anhöhe aus angreifen?
+    • Eig Kräfte westl Ihrer Position und in Brighton greifen mit an
+
+BrigPrestwick in Hastings:
+    • Auftrag: Marsch
+    • Abfließen der gesamten Brigade nach Eastbourne, vorher nach Möglichkeit unbrauchbarmachen Hafen Hastings
+    • Wenn Eastbourne erreicht: mit gesamter Brig nach Norden auf Stg 7 (ostw Hartfield) verlegen und dort eingraben
+    • Größte Bedrohung ist die fdl KavDiv im Raum Folkestone – Tonbride – Hastings (derzeit nahe Folkestone)
+
+BrigFitz (Yeo) zuletzt Folkestone
+
+QLF: Margate:
+Auftrag: Vtdg 
+    • Eigene Stg halten
+BrigBarron: nördl Raleigh
+Auftrag: Verteidigung 
+    • MajGen Barron, Sie werden persönlich in London gebraucht. Werden Sie asap dort vorstellig und übertragen Sie das Kommando auf ihren Stellvertreter. Der Auftrag verlangt Ihre jetzige Fronterfahrung, um die derzeit sichere Hauptstadt noch mehr zu sichern.
+    • Ihr Stellvertreter soll sich mit der Brig möglichst bei Wickford eingraben und ein Vorrücken des Fd aus Southwick in Richt Norden abriegeln
+Garnision Dover: Dover
+    • Die DDL wird Ihnen unterstellt, da Sie bereits länger mit uns in Kontakt stehen und ein besseres Lagebild haben.
+    • Verbieten Sie unnötige Requirierungen bei der Bevölkerung.
+    • Stellen Sie sich bei der Zuweisung von Material darauf ein, dass seeseitig kein Fd mehr zu erwarten ist. Daher besonders landwärts eingraben.
+DDL: Dover
+    • Sie werden der Garnision in Dover unterstellt.
+    • Stellen Sie Requirierungen bei der Bevölkerung möglichst ein.
+    • Stellen Sie sich bei der Zuweisung von Material darauf ein, dass seeseitig kein Fd mehr zu erwarten ist. Daher besonders landwärts eingraben.
+BGD: Brighton
+    • Marsch nach Heathfield, dort aufklären nach Osten, am Folgetag weiter nach Tonbridge ziehen und sich den dortigen Kräften anschließen
+    • BGD ist damit zunächst wieder direkt dem HQ London unterstellt
+
+1. Korps
+Stab: Redhill
+    • Verlegt nach London
+Pioniere
+- sprengen als Folgeauftrag Gleise bei Stg 7 (ostw Hartfield)
+5.Div
+Stab: Horsham
+- verlegt nach Croydon
+- dort wird demnächst ein angeblicher belgischer Spion abgeliefert. Dieser ist zu vernehmen und seine Schuld/Unschuld muss geprüft werden.
+1/5: Littlehampton
+Auftrag: Marsch 
+- Marsch nach London über Horsham unter zweckmäßiger Nutzung des Eisenbahnnetzes
+2/5: Bramber
+    • Auftrag: Angriff
+    • Benötigen Meldung, über Art/Stärke/Verhalten des Fd in Shoreham 
+    • Eigene Kräfte in Brighton, schießen Fd zunächst sturmreif
+    • Sie greifen zusammen mit eig Kräften (westl eig Steg) den Fd in Shoreham an
+3/5 + ArtReg: bei Findon
+    • Auftrag: Marsch 
+    • Marsch nach London über Horsham unter zweckmäßiger Nutzung des Eisenbahnnetzes
+1/19 + 2/19: Chichester 
+Auftrag: Vtdg
+    • Fd in Shoreham daran hindern, nach Westen auszubrechen
+6.Div
+Stab: Tonbridge
+    • Stellt sich darauf ein, dass bei ihnen ein Spion abgeliefert wird. Dieser ist zu vernehmen und einzusperren.
+Art/6: Tonbridge
+    • Beide Batterien ‚Essex Volunteer‘ schließen sich der 3/6 an
+    • Rest verlegt nach London mit Zug, um sich anschließend der 1/6 ostw London (Dagenham) anzuschließen
+1/6: London
+    • marschiert nach Osten in Stg 11 (Dagenham) und gräbt sich ein, Hauptschussrichtung ist Osten
+    • franz Korps nähert sich aus Southend
+2/6: Maidstone
+    • gräbt sich weiter ein
+3/6: Tonbridge
+    • gräbt sich weiter ein, Richtung Osten 
+3/19 + 4/19: High Halden 
+    • Fdl KavDiv im Raum Folkestone beobachten, aber nicht in Kämpfe verwickeln lassen!
+
+
+Kav/5.: Pitsea
+- Auftrag: Verzögerung
+- Fd in Southend aufklären und verzögern nach London
+- Meldung zu Art/Stärke/Verhalten des Fd (!)
+
+2. Korps (Col)
+Stab: Maidstone
+- Vernimmt Gefangenen General (möglichst Bestechung, sonst Druck)
+- Führt Eskadronen der QFL und setzt diese zur Aufklärung an der Küste „Isle of Sheppey“ sowie Cliffe ein
+Pioniere
+- sollen als Folgeauftrag Gleise an Bahnhof Ashton, welche nach Maidstone und Tonbridge führen, unbrauchbar machen
+1.Div: Boughton
+Auftrag: Verteidigung
+- Gräbt sich ein
+- Starker Fd (vermutl Div) in Whitstable 
+- übernimmt GGHG von 2.Div und setzt diese zur Aufklärung gegen Whitstable ein:
+	- ist eine fdl Division oder Brig in Whitstable?
+	- machen die franz Sdt einen ordentlichen Eindruck, oder kann es sich um              	 zusammengezogene Milizen/Freiwillige handeln?
+2.Div: Maidstone
+Auftrag: Verteidigung
+    • Fdl KavDiv vermutlich im Raum Folkestone – Tonbridge (obacht eigener Flanken und Rückenschutz!)
+    • Kräfte nicht auseinanderziehen, sondern Raum möglichst mit BVH/UVY füllen. 
+    • GGHG wird zunächst 1.Div unterstellt 
+Kav/2nd (Col): Marks Tey
+- Auftrag: Verzögerung
+- Falls fdl Kräfte in Richt London verzö und bei Gelegenheit abnutzen
+- bei Gelegenheit genaue Meldung, ob zusätzlich zur franz MarineBrig weitere Großverbände dort operieren
+
+Zusätzlich
+Information über Barbette:
+Aus dem Fenster konnte sie sehen, dass viele Soldaten die Hauptstadt in Richtung Osten verlassen.
+Porter:
+Frage: Gibt es Informationen zur Absicht der franz. Kavalleriedivision (7e Division Legere).
+Bewohner Five Ashes:
+Spion ist mit allen Beweisen zum Verhör nach Tonbridge zu bringen und dort der Army übergeben. Der Spion muss unversehrt bleiben.
+Polizei London:
+Cyrus Smith in London verhaften und prüfen, ob er ein Spion ist.
+Polizei London:
+Alle Fähren an der Themse müssen an das Südufer verlegt werden. Keine einzige darf am Nordufer verbleiben (!)
+Gefangener Belgier:
+Belgien fragen, woher sie die Informationen haben und mitteilen, dass London den Sachverhalt zunächst prüfen wird.
+An Milizen in Dorking: Verhafteten Belgier mit allen Beweisen nach Croydon bringen und dort der Army übergeben. Belgier muss unversehrt bleiben.
+
+
+

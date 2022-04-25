@@ -1,0 +1,38 @@
+#remote_theme: artemsheludko/flexible-jekyll
+title: Conflict Simulation Group
+description: > # this means to ignore newlines until "baseurl:"
+  The Conflict Simulation Group at the University of Würzburg
+url: cosimg.github.io
+baseurl: /tdtl2020
+
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: Conflict Simulation Group # add your name
+author-img: logo_frameless_passepartout_white_bg.png # add your photo
+about-author: University of Würzburg # add description
+social-twitter: cosimg # add your Twitter handle
+social-facebook: # add your Facebook handle
+social-github: https://github.com/cosimg # add your Github handle
+social-linkedin: # add your Linkedin handle
+social-email: twelvedaystolondon(at)gmail.com # add your Email address
+
+# Disqus
+discus-identifier: # add your discus identifier
+
+# Tracker
+analytics: Google Analytics
+# Google Analytics
+google_analytics: UA—153797791-1
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 20
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

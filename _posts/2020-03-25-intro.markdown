@@ -1,0 +1,53 @@
+---
+layout: post
+title: Regeln und Hintergrund - Operatives Kriegsspiel wie im 19. Jahrhundert 
+date: 2020-03-25 13:32:20 +0300
+description: 
+img: victorian_kriegsspielers.png # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: 
+---
+*Twelve Days to London* (TDTL) ist eine Simulation im Geiste des [*preußischen Kriegsspiels*](https://cosimwue.github.io/2019/11/03/prussian-kriegsspiel.html), insbesondere des *strategischen Kriegsspiels*, wie es 1875 von Jakob Meckel zum ersten Mal beschrieben wird. Sie bildet den Prozess der operativen Führung eines Feldzuges über mehrere Tage mit mehreren, getrennt marschierenden Heeresteilen ab. Wie im 19. Jahrhundert üblich steuern die Teilnehmenden ihre Einheiten dabei mittels schriftlicher Befehle, die von einem Team von Vertrauten ausgewertet und prozessiert werden. Die Konfliktlösung wird von diesen Vertrauten durch einen gewichteten Würfelmechanismus abgewickelt, der auf den Würfeltabellen der preußischen Kriegsspiegelregelwerke basiert.
+
+## Szenario
+Den Hintergrund von *Twelve Days to London* bilden die sog. *Invasion Scares* im England des späten 19. Jahrunderts. Unter dem unmittelbaren Eindruck des preußisch-deutschen Erfolges im Krieg von 1870/71 entwickelte sich ein politischer Diskurs über die Möglichkeit der Invasion Großbritanniens durch eine andere europäische Großmacht. Dieser fand zum einen einer Reihe patriotischer Romane, den sog. *Invasion Novels* seinen Ausdruck, zum anderen aber auch in den Kriegsspiel-Szenarien, die in dieser Zeit von der Royal Army gespielt wurde. Vor diesem Hintergrund, der sich für die taktische Simulation [*Pluie de Balles*](http://analoggamestudies.org/2018/09/pluie-de-balles-complex-wargames-in-the-classroom/) schon lange bewährt hat, spielt auch das operative Invasionsszenario *Twelve Days to London*.
+
+## Ablauf und Regeln
+- Die Simulation läuft über 12 Tage.
+- Die beiden Teams *Blau* und *Rot* bilden die Stäbe in Paris bzw. London ab, denen die operative Führung des Vorstoßes auf London, bzw. der Verteidigung Londons obliegt.
+- Ziel von Team *Blau* ist es, innerhalb dieser 12 Tage London einzunehmen.
+- TDTL wird in Echtzeit mit einer Runde pro Tag gespielt.
+- Befehle der Teams *Blau* und *Rot* müssen täglich bis 23:59 (Bravo-Zeit) bei der Übungsleitung eingegangen sein.
+- Zusätzlich erstellt jedes Team täglich ein aktuelles Lagebild in einer vom Leitungsteam vorgegeben Vorlage. Auch das aktuelle Lagebild ist täglich der Leitung zu übermitteln.
+- Die Teams erhalten am Folgetag bis 18:00 die Rückmeldungen der ihnen unterstellten Verbände.
+- Jedes Team verschickt seine täglichen Befehle zusammengefasst in **nur einer** Email an die Funktionsadresse der Simulationsleitung, mit dem Betreff "Befehle Rot" bzw. "Befehle Blau".
+- In dieser Befehlsemail sind die Befehle/Nachrichten für die einzelnen Adressaten separat aufgeführt. Diese Nachrichten müssen sichtbar in Absätzen voneinander getrennt sein. Jeder neue Befehl beginnt mit der Bezeichnung des **Empfängers und seiner vermuteten Position**. Für getrennt marschierende Verbände müssen separate Befehle erstellt werden (auch wenn sie wortgleich sind).
+
+## Hilfsmittel
+- Offizielle Befehle und Meldungen werden per Email übermittelt. Die Leitung kommuniziert dabei über eine extra eingerichtete Emailadresse.
+- Für Besprechungen und Rückfragen in der Gruppe werden den Teilnehmenden werden Chaträume auf *Slack* zur Verfügung gestellt: Ein gemeinsamer für allgemeine Fragen, und ein geschlossener für jedes Team.
+- Öffentliche Informationen, wie z.B. fiktive Pressemeldungen zum Kriegsverlauf werden auf [dieser Homepage](cosimwue.github.io/TDTL2020) publiziert. Auch die Teams dürfen über die Spielleitung gerne Pressemitteilungen herausgeben.
+- Das tägliche Lagebild wird von Leitung und den Teams *Rot* und *Blau* auf einer von der Leitung vorgegeben Karte dokumentiert. Diese Übersichtskarte basiert auf einer *Ordnance Survey Map* der Britischen Eisenbahnlinien von 1946 im [Maßstab 1:625000](https://maps.nls.uk/geo/explore/#zoom=8&lat=52.14247&lon=-0.36670&layers=10rail&b=1). Als Referenz für die genaue Topographie des Operationsgebietes kann die [One-Inch-to-Mile Karte von 1888](https://maps.nls.uk/geo/explore/#zoom=11&lat=51.24020&lon=0.85676&layers=161&b=1) genutzt werden.
+
+
+## Landkrieg im späten 19. Jahrhundert - ein paar Sätze zur Orientierung
+
+### Infanterie, Kavallerie und Artillerie
+Das 19. Jahrhundert ist ein Zeitalter gewaltiger Wehrpflichtarmeen. In den großen Schlachten der Zeit werden teilweise mehrere Armeekorps gleichzeitig auf Frontabschnitten von weniger als 20 km eingesetzt. Die große Masse dieser Armeen macht die **Infanterie** aus, die weitgehend einheitlich mit Gewehr und Bajonett bewaffnet ist und sowohl defensiv als auch offensiv eingesetzt werden kann. 
+
+Die **Kavallerie** zeichnet sich vor allem durch ihre vergleichsweise hohe Beweglichkeit aus. Damit ist sie besonders wichtig für eine wirksame Aufklärung. Es ist darum üblich, kleinere Kavallerieeinheiten auch Infanterieformationen von Divisions- oder Brigadestärke zu unterstellen, um die eigenständige Aufklärungsfähigkeit einer solchen Formation sicher zu stellen. Im Gefecht sind europäische Kavallerieeinheiten dieser Zeit immer noch primär auf den Nahkampf mit der Blankwaffe spezialisiert. Sie sind besonders wirksam, wenn sie offensiv gegen weiche Ziele, wie Nachschublinien oder ungeordnete Feindkräfte eingesetzt werden. Für den offensiven Einsatz sollte die Kavallerie zu eigenständigen Brigaden oder Divisionen zusammengezogen werden. Grundsätzlich ist der Einsatz solcher Formationen aber nur in offenem Gelände möglich, Kampfhandlungen in bewaldeten oder stark bebauten Gegenden sollten vermieden werden. Auch für die statische Verteidigung sind Kavallerieformationen ungeeignet, wenn sie aber über berittene Artillerie verfügen, können sie zur Verzögerung eingesetzt werden.
+
+Die taktische Rolle der **Artillerie** ist die Unterstützung der Infanterie bzw. der Kavallerie (im Falle der berittenen Artillerie) in Angriff und Verteidigung. Der Einsatz erfolgt überwiegend immer noch auf Sicht, indirektes Feuer steckt noch in seinen Anfängen. Für diese Unterstützungsrolle werden die Batterien den Formationen der Infanterie und Kavallerie unterstellt. Logistisch ist die Artillerie am anspruchsvollsten, da sie weitgehend auf zugängliches Gelände und bestimmte Infrastrukturelemente wie z.B. Brücken, angewiesen ist.
+
+### Verbindung und Logistik
+Technischer Fortschritt ist ein wichtiger Aspekt des 19. Jahrhunderts, und er wirkt sich auch auf Führung und Logistik militärischer Operationen aus. Eine zentrale Rolle spielen dabei die Eisenbahnlinien, auf denen große Truppenkontingente in kurzer Zeit verlegt werden können. Entlang dieser Linien verlaufen zudem Telegraphenverbindungen, mit deren Hilfe Kommunikation über große Entfernungen möglich ist (abseits dieser Verbindungen ist man für Kommunikation noch weitgehend auf Meldereiter angewiesen). Darum sollten die Bahnlinien bei der Beurteilung der Topographie immer berücksichtigt werden.
+
+### Ein paar Richtwerte für die Planungen
+- Tagesmarschleistung einer Infanterieformation: 20 km
+- Tagesmarschleistung einer Kavallerieformation: 35 km
+- Aufklärungsradius ohne Kavallerieelement: 2,5 km
+- Aufklärungsradius der Kavallerie: 15 km
+- maximale Frontbreite eines Infanteriebataillons in Gefechtsformation in offenem Gelände: 500-1000m
+- dasselbe für eine Brigade von 6 Bataillonen: 3-5 km
+- eine Infanteriedivision von 2 Brigaden + Artillerie: 6-10 km
+- ein Armeekorps von 2 Divisionen + Kavallerie und Artillerie: 12-15 km

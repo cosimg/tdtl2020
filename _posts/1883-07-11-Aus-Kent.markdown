@@ -1,0 +1,33 @@
+---
+layout: post
+title: Tag 6 - Im besetzten Kent
+date: 1883-07-10 13:32:20 +0300
+description: 
+img: maison.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: 
+---
+
+Die Meldungen des Tages: +++Französische Truppen in Kent weiter auf dem Vormarsch+++Englischer Sieg bei Wickham+++französische Einheiten stehen vor Chelmsford+++Schwedisches Königshaus in Sorge um Mrs Margareth Pennypickle+++
+
+![Karte]({{site.baseurl}}/assets/img/ramsgate10jul.jpg)
+
+## Aus dem französisch besetzten Ramsgate
+
+### Nieuwe Rotterdamsche Courant, Rotterdam, 10. Juli.
+***unser Auslandskorrespondent Pieter van Staveren berichtet aus Ramsgate.***
+
+Es geht geschäftig zu im besetzten Ramsgate, aber ruhig. Während ich im Hafen an Land gehe beobachte ich lange Reihen australischer Kriegsgefangener, die an Bord französischer Transporter gehen. Sie wirken niedergeschmettert und zerlumpt, aber immerhin tragen ihre Offiziere noch ihre Säbel. Drüben in Margate, wenige Kilometer entfernt, hat sich der für England kämpfende Exilfranzose General de Bates mit seinen Männer verschanzt, jeder Kommandeur, bei dem sich selbst in England die Presse nicht einig ist, ob er nun der “Held von Margate” oder der “Schlächter von Margate” ist. Aber es ist ruhig. Um Margate herum verlaufen Gräben der Franzosen, und eine ganze Brigade der 7. französischen Infanteriedivision hält de Bates hier auf der Isle of Thanet in Schach. Über die Felder hallen nur selten vereinzelte Schüsse. Capitain Philipe de la Lune, der Offizier, den man mir hier als Fremdenführer und Eskorte an die Seite gestellt hat, ist zuversichtlich, daß de Bates in ein paar Tagen aufgeben wird. “Die Operation läuft gut für uns,” so de la Lune. “Das die Landung der 11. Division in Margate verhindert wurde war ein Rückschlag, ja, das unseren Zeitplan etwas gestört. Aber nun ist die ganze Armee Richtung London abmarschiert. East Kent ist befriedet. Nur wir sind noch hier, um auf den Hafen, und auf die Verräter da drüben in Margate aufzupassen. Und wir haben uns eingerichtet. Wenn ich jetzt noch irgendwo brauchbares Brot und akzeptable Croissants auftreiben können, wäre es fast wie zu Hause in der Bretagne. Leider setzen uns die Leute, die hier leben, aus purer Boshaftigkeit nur schreckliches Essen vor. Naja, über den Käse kann man reden, aber alles andere...” Und tatsächlich, wenn man nicht gerade die Stellungen vor Margate betrachtet, sondern den Blick nach Süden und Westen richtet, sieht man überall nur friedliche, menschenleere Sommerlandschaft. Und wäre da nicht der Schritftzug “Francaises allez maison!” auf einer Scheune zu sehen, ich könnte fast glatt vergessen, daß ich aus dem vielleicht blutigsten Krieg seit Waterloo berichte.
+
+
+![Karte]({{site.baseurl}}/assets/img/dover10jul.jpg)
+
+## Aus dem freien Dover
+
+### Die Woche im Bild, Bern, 10. Juli
+***unser Auslandskorrespondent Rudolf Sternberg berichtet.***
+
+Heute morgen bin ich mit einem gecharterten Segler aus Brighton hier in Dover eingetroffen, der Stadt im besetzten Kent, die noch immer von englischen Truppen gehalten wird. Und wahrlich, sie wird gehalten. Oder sollte man sagen: Sie muss gar nicht gehalten werden? Zwar sieht man wenig von der Garnison der Festung, die scheint eher selten heraus zu kommen, doch auch von den Franzosen ist hier nichts zu sehen. Auch in dieser Küstenstadt tummeln sich eifrige Milizionäre, die die Verteidigung organisieren. Und kurz nach mir trifft eine Eskadron des 19. Husarenregiments in der Stadt ein, das durch die bewaffneten Bürger mit den roten Armbinden begeistert empfangen wird. Der Captain der Husaren fragt nach der Lage, nach der Position des Feindes, doch die Milizen berichten lediglich, vor einigen Tagen habe man französische Kavallerie nach einem kurzen Feuergefecht vertreiben können. Seitdem habe man landauf-landab leider keinen Franzosen mehr gesehen. Bis auf die wenigen natürlich, die diese selbstorganisierten Heimatverteidiger in Priory Station interniert haben. Hier werden von den Milizen etwa 20-30 Personen französische Staatsbürger festgehalten, die man der Spionage verdächtigt, darunter allerdings auch Frauen und Kinder, und ein katholischer Priester, scheinbar überwiegend Angehörige ortsansässiger französischer Familien. Ein kurzer Blick auf die internierten, den man mir gestattet hat, lässt darauf schließen, daß es ihnen weitgehend gut geht, auch wenn die Kinder unter den grimmigen Blicken ihrer Bewacher verängstigt wirken. Mit dem Priester zu sprechen wurde mir verwehrt. Ansonsten merkt man, daß die Gegend weitgehend von den großen Ereignissen abgeschnitten ist. Die Telegraphenverbindungen aus Dover hinaus sind weitgehend tot, nur mit dem ebenfalls abgeschnittenen Ashford steht man noch in Kontakt. Und zum Glück für den Auslandskorrespondenten, über Calais mit dem Kontinent. Angesichts der immer wieder betonten strategischen Bedeutung Dovers überrascht es, wie wenig diese Stadt bisher von diesem Krieg gesehen hat. Ich werde weiter berichten.
+
+
+

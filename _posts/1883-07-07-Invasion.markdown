@@ -1,0 +1,36 @@
+---
+layout: post
+title: Tag 2 - Invasion!
+date: 1883-07-06 13:32:20 +0300
+description: 
+img: EnglandMap.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: 
+---
+
+
+## Invasion in Südengland
+
+Gestern sind französische Truppen an verschiedenen Punkten in Südengland gelandet. Augenzeugen berichten von schweren Kämpfen in Sussex und Kent, und auch in Essex hat man die Tricolore gesehen. Einheiten aus Australien und Kanada, die sich zur Zeit für ein gemeinsames Manöver in England aufhalten, sollen an den Kämpfen um ihr Mutterland beteiligt sein...
+
+## Der Englisch-Französische Krieg
+
+### Global Examiner, New York, 6. Juli
+
+***Korrespondent Howard Haroldson berichtet aus London.***
+
+Der Krieg hat nun englischen Boden erreicht. Trotz der Schwierigkeiten, derzeit an genaue Informationen zu gelangen, konnte ich doch in Erfahrung bringen, daß größere französische Truppenteile im Süden und Osten gelandet sind. Man ist in London in gespannter Erwartung ob der weiteren Entwicklungen. Erste Nachrichten über Gefechte an der Küste sind noch bruchstückhaft und unbestätigt. Wer allerdings glaubt, angesichts der nun tatsächlich stattfindenden Invasion seien die Stimmen der Kritiker verstummt, der irrt. Die Regierung sieht sich ständigen Angriffen einer kleinen aber lautstarken Gruppe von Kritikern ausgesetzt, die auch jetzt fordern, man müsse nach einer diplomatischen Lösung suchen. Auf der Straße ist die Stimmung derzeit gemischt. Wo vor zwei Tagen noch patriotischer Eifer überwog, macht sich nun Nachdenklichkeit breit. Dabei sind die Unterschiede von Stadtviertel zu Stadtviertel groß. Während an einer Stelle abziehende australische Kavallerie von jubelnden Anwohnern mit Blumen bedacht wird, sind andere Teile der Hauptstadt menschenleer. Dort waren vor Tagen die Pubs voll mit zuversichtlichen Soldaten; nun sind Türen verrammelt und Fenster vernagelt. 
+
+
+![Karte]({{site.baseurl}}/assets/img/brighton6jul.jpg)
+
+
+## Der Konflikt zwischen England und Frankreich
+
+### Die Woche im Bild, Bern, 6. Juli
+
+***unser Auslandskorrespondent Rudolf Sternberg berichtet.***
+
+Die Invasion ist da - und Brighton ist Frontstadt! Als Reaktion auf die Landungen hat ein lokaler Fahrradfabrikant aus Angehörigen seines Betriebes und lokalen Freiwilligen eine Fahrraddivision gebildet. Ihre Angehörigen scheinen kampfeslustig, trinkfest und auskunftsfreudig zu sein. Wie mir der Adjutant der Kommandeurs selbst stolz berichtete, seien seine tapferen Männer, die sich Brighton Gentlemen Defenders nennen (BGD), mutig einem in Shoreham gelandeten französischen Armeekorps entgegengeradelt, das versucht hat, Brighton im Sturm zu nehmen. Doch dies konnten die englischen Freiwilligen offenbar verhindern. Mir wurde von heftigen Kämpfen in den westlichen Vororten berichtet, bei denen die BGD den Franzosen schwere Verluste beigebracht haben soll; der Feind habe sich schließlich Richtung Westen zurückgezogen. Es war leider nicht möglich, sich dem Geschehen zu nähern, um sich ein eigenes Bild zu machen. Eigenartig an den Ereignissen ist allerdings, daß man von all dem kaum etwas gehört hat - ich verbrachte den Tag in der Sonne an der Uferpromenade, und hier waren lediglich ein paar Schüsse zu vernehmen. Sei es wie es mag, die Ereignisse haben die Stimmung in Brighton sehr verändert. Die gespannte Ruhe der letzten Tage gewichen, allerorten herrscht nun überbordender Patriotismus. Kaum eine Straßenkreuzung, an der nicht ein Musiker mit einem möglichst untauglichen Instrument “Rule Britannia” anstimmt. Wer je eine Gruppe von Kellnern gesehen hat, die auf leeren Portweinflaschen versuchen, eine Melodie zu blasen, weiß: auch wenn die französische Invasion sich derzeit für die Bewohner als nicht so schreckenerregend erweist, wie vielleicht befürchtet, hat sie der Welt doch unaussprechlichen Schrecken beschert.
+
+

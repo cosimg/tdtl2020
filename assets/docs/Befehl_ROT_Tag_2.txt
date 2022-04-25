@@ -1,0 +1,121 @@
+09.Juli 1883
+Alle angesprochenen Truppenteile sind angehalten, täglich eigene Lage zu melden, Lageänderungen zu melden und ob Aufträge ausgeführt wurden.
+An alle Ortschaften/Städte an den Küstengebieten mit Bahnhöfen/Haltestellen/ Zügen: Alle Züge sind unbrauchbar zu machen, um einen Zugriff durch die franz. Invasoren zu verhindern.
+An Freiwilligenbrigaden
+NavBrig in Newhaven:
+    • Auftrag: Verteidigung
+    • Hafen zur Unbrauchbarkeit für Fd zerstören, Forttruppen halten Hafen weiterhin
+    • Brigade marschiert asap ab nach Brighton (dort eig Kräfte)
+    • Nimmt dort so Stg gegen Shoreham ein (dort fdl KavBrig), dass eig Art auf Shoreham wirken kann 
+LLL in Eastbourne:
+    • Auftrag: Verzögerung
+    • Eastbourne gewinnen und 360° Stg herrichten, Hauptschussrichtung seeseitig
+    • Wenn Feinddruck zu stark, dann verzö ausweichen auf Stg 7 (Eisenbahnkreuz ostwärts Hartfield)
+
+BrigDapper in Bramber:
+    • Auftrag: Verteidigung
+    • Stg beziehen auf Anhöhe nördl Shoreham, sodass eig Art auf Shoreham wirken kann
+    • In Shoreham fdl KavBrig
+    • 2./5.Div trifft in Kürze ostw ein und stellt Schulterschluss zu BrigDapper her
+
+
+BrigPrestwick in Hastings:
+    • Auftrag: Verzögerung
+    • 360° Stg in Hastings herrichten, Hauptschussrichtung seeseitig
+    • Wenn Feinddruck zu stark, dann verzö ausweichen auf Stg 6 (Tonbridge)
+    • Anmerkung: fdl KavDiv in Folkestone gelandet“
+
+
+BrigFitz (Yeo) nahe Folkestone:
+    • Auftrag: Verzögerung 
+    • Brig wieder zusammenführen und einsetzen um fdl KavDiv in Folkestone zu verz
+    • Vermutete Absicht der fdl Div ist Ausweitung Brückenkopf auf Freifläche in Richt Ashford
+    • BrigFitz muss deswegen Bewegung der fdl Div insbesondere nach Norden hemmen, sodass dort eig Tr Stg beziehen können
+
+QLF in Margate:
+Auftrag: Verteidigung
+    • Margate zur Verteidigung einrichten
+    • Bürger bewaffnen
+    • Gefangene bewachen lassen
+    • Beide KavEskadronen mit gefangenem General nach Chatham schicken. Eskadronen sollen abseits der Wege reiten, da Fd bereits in Whitable gelandet. General wird in Chatham von eig Kräften der Colonials verhört.
+    • Außerdem Fd in Ramsgate gelandet
+    • Entsatz durch eig Kräfte in Korpsstärke wird vorbereitet. 
+BrigBarron bei Hockley:
+Auftrag: Verteidigung
+    • Brig wieder zusammenführen
+    • Stg nördl Southend beziehen, sodass eig Art darauf wirken kann
+    • Fd in Southend gelandet
+    • Eig Kr aus London führen Angriff auf dortigen Fd, während BrigBarron diesen bindet/abnutzt
+
+An 2. Korps (Colonial)
+- Pioniereinheiten sprengen Gleis bei Upper Stoke und kehren zum Stab zurück
+- Stab in Farning richtet sich ein bei Chatham
+1.Div in Rainham:
+Auftrag: Verteidigung
+- Gewinnt Stg 1 (Boughton) und gräbt sich ein. Hauptschussrichtung ist Osten. 
+- Stab sucht sich möglichst zweckmäßig dahinter einen Platz
+- Stg muss asap bezogen werden, da Fd bereits in Whitstable gelandet
+2.Div in Maidstone:
+Auftrag: Verteidigung
+- Gewinnt Stg 2 (Ashford) und gräbt sich ein. Hauptschussrichtung ist Osten.
+- Stab sucht sich möglichst zweckmäßig dahinter einen Platz
+- Einsatz ArtReg nach eigenem ermessen
+- KavKp der 2.Div gewinnt Eisenbahnkreuz Boughton, verteidigt dieses gegen Fd in Whitstable und wartet auf 1.ColDiv, welche aus Westen anmarschiert . Ankunft der 1.Div in dortiger Stg 1 vor Fd ist entscheidend!
+KavBrig des 2.Korps in London:
+- Auftrag: Angriff
+- Aufkärung nach Colchester, falls feindfrei, weiter aufklären nach Clacton, dort Fd gelandet
+- unterlegenen Fd werfen, andernfalls für König und Vaterland den Fd in Tiefe des Raumes nach London reinziehen und in günstigem Gelände verzögern/abnutzen
+An 1. Korps
+- Stab richtet sich ein bei Redhill
+- Pioniereinheiten sprengen Eisenbahnkreuz zwischen Tonbridge und Ashford, bei gestrichelter lila Linie und anschließend…
+- Pioniereinheiten bereiten Sprengung Eisenbahnkreuz Tonbridge vor. Sprengung erst auf Befehl, bzw. selbstständig, wenn Stg 6 (Tonbridge) aufgegeben wird.
+
+5.Div 
+2.Brig in Slaugham: 
+- Auftrag: Verteidigung
+- nach Shoreham marschieren, dort Fd 
+- Stg auf Anhöhe nördl Shoreham beziehen, sodass Shoreham in Schussweite der eig Art
+- Schulterschluss zu BrigDapper (westl zugewiesener Stg suchen)
+Stab in Horsham
+- verbleibt dort
+3.Brig + ArtReg  in Horsham
+- Auftrag: Verteidigung
+- Marsch auf Littelhampton, dort Fd
+- Stg auf Anhöhe nördl Littelhampton, ostwärts Eisenbahn beziehen, sodass Shoreham in Schussweite der eig Art
+1./5.Div geht westl in Stg
+1.Brig in NorthChapel
+- Auftrag: Verteidigung
+- Marsch auf Littelhampton, dort Fd
+- Stg auf Anhöhe nördl Littelhampton, westl Eisenbahn beziehen, sodass Shoreham in Schussweite der eig Art
+- 3./5.Div geht ostwärts in Stg
+KavKp 1 und 2 in Petersfield:
+Auftrag: Verz
+    • Marsch nach Chichester, Fd in Bognor Regis gelandet
+    • Diesen verzögern, in Richtung Nordwest
+
+6.Div in:
+
+Beide KavKp in Stg 7 (ostw Grinstead) 
+- Angriff auf Folkestone, dort fdl KavDiv
+- nehmen möglichst Verbindung auf mit dortiger KavBrigFitz (eig Kräfte) und verz mit dieser den Fd, um die Wegnahme Ahsford durch diesen zu verhindern
+1.Brig in Leigh
+- marschiert nach London und ist Reserve. Sitzt dort auf Zug auf
+ ArtReg + Stab nahe Redhill
+- Marsch nach Tonbridge, dort ausheben Stg 6
+2.Brig in Farnborough:
+- Gewinnt Stg 5 (Maidstone) und bereitet diese vor.
+3.Brig nahe Three Bridges:
+- Gewinnt zu Fuß Stg 6 (Tonbridge) bereitet diese vor
+KavBrig der 5.Div in London:
+- Auftrag: Angriff
+- absitzen von Zug und Angr auf Fd in Southend in Kav-günstigem Gelände durchführen
+- BrigBarron hat Stg nördl Southend bezogen und beschießt Fd mit Art/ blockiert dessen Ausbreitung nach Norden
+- Erreicht Chelmsford und stellt sich darauf ein, Fd, der ostwärts Chelmsford anlandet, entlang der Bahngleise bis London zu verzögern, bzw. unterlegenen Feind zu werfen.
+
+
+Zusätzlich
+
+Information über Barbette:
+Der junge Mann von gestern wurde von einem Kameraden abholt, er müsste dringend in Richtung Margate los, Frankreich greife das Empire an!
+
+
