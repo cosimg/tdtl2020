@@ -1,15 +1,11 @@
 cff-version: 1.2.0
 message: If you use this simulation, please cite it using these metadata.
 title: Twelve Days to London 2020
-abstract: In response to the current lock down caused by the Covid-19 pandemic, the Conflict Simulation Group is hosting an online wargame for young officers studying
-at the German Armed Forces’ Helmut Schmidt University in Hamburg. 
 authors:
   - family-names: Conflict Simulation Group
-    given-names: 
     email: twelvedaystolondon@gmail.com
-    affiliation: University of Würzburg
 version: 0.1
-date-released: "2020-04"
+date-released: "2020"
 license:  GPL-3.0 license
 repository-code: "https://github.com/cosimg/tdtl2020"
 url: 'https://github.com/cosimg'
