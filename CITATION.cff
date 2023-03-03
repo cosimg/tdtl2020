@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: Twelve Days to London 2020
+message: If you use this simulation, please cite it using these metadata.
+type: report
+authors:
+  - family-names: Conflict Simulation Group
+    email: twelvedaystolondon@gmail.com
+    affiliation: University of Würzburg
+repository-code: 'https://github.com/cosimg/tdtl2020'
+url: 'https://github.com/cosimg'
+abstract: In response to the current lock down caused by the Covid-19 pandemic, the Conflict Simulation Group is hosting an online wargame for young officers studying
+at the German Armed Forces’ Helmut Schmidt University in Hamburg. 
+An operational simulation inspired by the Prussians’ Strategisches Kriegsspiel (strategic war game), Twelve Days to London recreates general staff work in a fictional 
+19th century conflict. In a scenario based on Victorian invasion scare literature as well as real contemporary wargaming scenarios, participant teams experience the 
+operational level of command. The goal of the blue invading force is to land on the shores of Britain and take the city of London before the Royal Navy can return 
+from its overseas deployment, the window of opportunity will last only for twelve days…
+keywords:
+  - Conflict Simulation
+license: GPL-3.0 license
+date-released: "2020-04"
